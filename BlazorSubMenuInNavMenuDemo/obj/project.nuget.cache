@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "es2V1CwycamNQLgnHOCWkbqAnPP2zhrMaJ9hi2TYi4JbGox6aTYR4Ij94ms/2z/NIPpCQhz4ZfpSvHqj6gj+OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kouge\\source\\repos\\Blazor\\BlazorSubMenuInNavMenuDemo\\BlazorSubMenuInNavMenuDemo\\BlazorSubMenuInNavMenuDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kouge\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
